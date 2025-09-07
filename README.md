@@ -30,3 +30,7 @@ It can understand text or voice commands and respond with information like weath
    ```bash
    git clone (https://github.com/C-ShivaCharan/Voxa.git)
    cd Voxa
+
+   ## 🖼 Screenshots
+![Voxa Homepage]()
+
