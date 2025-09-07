@@ -31,6 +31,6 @@ It can understand text or voice commands and respond with information like weath
    git clone (https://github.com/C-ShivaCharan/Voxa.git)
    cd Voxa
 
-   ## 🖼 Screenshots
+   
 ![Voxa Homepage](https://github.com/C-ShivaCharan/Voxa/blob/ca459392374f5d9ef7152a85a348f36358ee6c2f/Screenshot%202025-09-07%20224354.png)
 
