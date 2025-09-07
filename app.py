@@ -136,7 +136,7 @@ def process_command(command: str) -> dict:
     if "wikipedia" in c:
         return {"type": "text", "message": wiki_search(c.replace("wikipedia", "").strip())}
 
-    # ✅ Weather (improved city extraction)
+    # Weather 
     if "weather" in c:
         if " in " in c:
             city = c.split(" in ", 1)[1].strip()
