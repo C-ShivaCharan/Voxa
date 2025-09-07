@@ -28,5 +28,5 @@ It can understand text or voice commands and respond with information like weath
 ## ⚙ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voxa.git
-   cd voxa
+   git clone (https://github.com/C-ShivaCharan/Voxa.git)
+   cd Voxa
